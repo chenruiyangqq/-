@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\你好世界\主程序\main.cpp(9,9): warning C4244: “初始化”: 从“double”转换到“short”，可能丢失数据
+C:\你好世界\主程序\main.cpp(11,10): warning C4244: “初始化”: 从“short”转换到“char”，可能丢失数据
+C:\你好世界\主程序\main.cpp(13,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\你好世界\主程序\main.cpp(53,12): warning C4305: “初始化”: 从“double”到“float”截断
+C:\你好世界\主程序\main.cpp(62,10): warning C4305: “初始化”: 从“double”到“float”截断
+C:\你好世界\主程序\main.cpp(63,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  主程序.vcxproj -> C:\你好世界\主程序\x64\Debug\主程序.exe
