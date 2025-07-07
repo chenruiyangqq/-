@@ -1,0 +1,4 @@
+<view class="container">
+  <text>Step Counter</text>
+  <text class="count">{{steps}}</text>
+</view>
